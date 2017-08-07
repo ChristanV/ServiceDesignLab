@@ -1,0 +1,9 @@
+petstore\services\PetStoreService.class
+petstore\services\UserService.class
+petstore\model\User.class
+petstore\controller\UserController.class
+petstore\model\Order.class
+petstore\model\Pet.class
+petstore\model\Status.class
+petstore\PetStoreApi.class
+petstore\controller\PetStoreController.class
